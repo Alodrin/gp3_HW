@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+<<<<<<< Updated upstream
+    <list default="true" id="e912f308-c316-4c15-90f6-e47420aba477" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GP3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GP3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GP3/Code/Runtime/05_FSM/AI/CombatState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GP3/Code/Runtime/05_FSM/AI/CombatState.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GP3/Code/Runtime/05_FSM/AI/Enemy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GP3/Code/Runtime/05_FSM/AI/Enemy.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GP3/Code/Runtime/05_FSM/AI/IdleState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GP3/Code/Runtime/05_FSM/AI/IdleState.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GP3/Scenes/05_FSM/AI.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GP3/Scenes/05_FSM/AI.unity" afterDir="false" />
+    </list>
+=======
+    <list default="true" id="e912f308-c316-4c15-90f6-e47420aba477" name="Default Changelist" comment="" />
+>>>>>>> Stashed changes
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/GP3/Code/Runtime/03_NavMesh/SimplePointAndClickController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GP3/Code/Runtime/03_NavMesh/DoorActivator.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/GP3/Code/Runtime/03_NavMesh/Door.cs" />
+        <option value="$PROJECT_DIR$/Assets/GP3/Code/Runtime/03_NavMesh/DoorActivator.cs" />
+        <option value="$PROJECT_DIR$/Assets/GP3/Code/Runtime/03_NavMesh/Goal.cs" />
+        <option value="$PROJECT_DIR$/Assets/GP3/Code/Runtime/03_NavMesh/ScriptableSingleton.cs" />
+        <option value="$PROJECT_DIR$/Assets/GP3/Code/Runtime/Core/BreadthFirstSearchSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/GP3/Code/Runtime/04_SearchAlgorithms/BreadthFirstSearchSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/GP3/Code/Runtime/04_SearchAlgorithms/BFS/Marker.cs" />
+        <option value="$PROJECT_DIR$/Assets/GP3/Code/Runtime/04_SearchAlgorithms/BreadthFirstSearch.cs" />
+        <option value="$PROJECT_DIR$/Assets/GP3/Code/Runtime/Core/ScriptableSingleton.cs" />
+        <option value="$PROJECT_DIR$/Assets/GP3/Code/Runtime/04_SearchAlgorithms/Marker.cs" />
+        <option value="$PROJECT_DIR$/Assets/GP3/Code/Runtime/03_NavMesh/SimplePointAndClickController.cs" />
+        <option value="$PROJECT_DIR$/Assets/GP3/Code/Runtime/03_NavMesh/NavMeshPatrol.cs" />
+        <option value="$PROJECT_DIR$/Assets/GP3/Code/Runtime/03_NavMesh/LevelGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/GP3/Code/Runtime/04_SearchAlgorithms/BFS/BreadthFirstSearchSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/GP3/Code/Runtime/04_SearchAlgorithms/BFS/DijkstraSearch.cs" />
+        <option value="$PROJECT_DIR$/Assets/GP3/Code/Runtime/04_SearchAlgorithms/BFS/SearchBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/GP3/Code/Runtime/04_SearchAlgorithms/GridNodeType.cs" />
+        <option value="$PROJECT_DIR$/Assets/GP3/Code/Runtime/04_SearchAlgorithms/SearchBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/GP3/Code/Runtime/04_SearchAlgorithms/BFS/BreadthFirstSearch.cs" />
+        <option value="$PROJECT_DIR$/Assets/GP3/Code/Runtime/04_SearchAlgorithms/Grid.cs" />
+        <option value="$PROJECT_DIR$/Assets/GP3/Code/Editor/04_SearchAlgorithms/BFS/BreadthFirstSearchEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/GP3/Code/Runtime/04_SearchAlgorithms/Dijkstra/DijkstraSearch.cs" />
+        <option value="$PROJECT_DIR$/Assets/GP3/Code/Runtime/04_SearchAlgorithms/Dijkstra/GreedyBestFirstSearch.cs" />
+        <option value="$PROJECT_DIR$/Assets/GP3/Code/Runtime/04_SearchAlgorithms/GridNode.cs" />
+        <option value="$PROJECT_DIR$/Assets/GP3/Code/Runtime/04_SearchAlgorithms/GreedySearch/GreedyBestFirstSearch.cs" />
+        <option value="$PROJECT_DIR$/Assets/GP3/Code/Runtime/05_FSM/Quests/QuestItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/GP3/Code/Runtime/05_FSM/Quests/IQuestState.cs" />
+        <option value="$PROJECT_DIR$/Assets/GP3/Code/Runtime/05_FSM/Quests/QuestNPC.cs" />
+        <option value="$PROJECT_DIR$/Assets/3DGamekit/Scripts/Game/Player/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/GP3/Code/Runtime/05_FSM/AI/IdleState.cs" />
+        <option value="$PROJECT_DIR$/Assets/GP3/Code/Runtime/05_FSM/AI/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/GP3/Code/Runtime/05_FSM/AI/CombatState.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j3vZbv6DtexvbGUTV1Dr69TyZI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34994584" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30010834" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="XThreadsFramesViewSplitterKey" value="0.5007752" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e912f308-c316-4c15-90f6-e47420aba477" name="Default Changelist" comment="" />
+      <created>1603045647689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603045647689</updated>
+      <workItem from="1603045673224" duration="2872000" />
+      <workItem from="1603290227781" duration="3048000" />
+      <workItem from="1603890469640" duration="1974000" />
+      <workItem from="1603900417288" duration="2251000" />
+      <workItem from="1603903072118" duration="2658000" />
+      <workItem from="1604495461816" duration="1561000" />
+      <workItem from="1604504500666" duration="7068000" />
+      <workItem from="1604519121515" duration="20000" />
+      <workItem from="1605110366342" duration="8042000" />
+      <workItem from="1605195890395" duration="2747000" />
+      <workItem from="1605547451767" duration="492000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2635" y="224" key="#xdebugger.evaluate" timestamp="1603892133644">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2635" y="224" key="#xdebugger.evaluate/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603892133644" />
+    <state width="423" height="464" key="DebuggerActiveHint" timestamp="1604508694546">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="423" height="464" key="DebuggerActiveHint/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604508694546" />
+    <state width="1877" height="150" key="GridCell.Tab.0.bottom" timestamp="1605140405069">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="150" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605140405069" />
+    <state width="1877" height="150" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605114697618" />
+    <state width="1877" height="150" key="GridCell.Tab.0.center" timestamp="1605140405068">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="150" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605140405068" />
+    <state width="1877" height="150" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605114697618" />
+    <state width="1877" height="150" key="GridCell.Tab.0.left" timestamp="1605140405068">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="150" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605140405068" />
+    <state width="1877" height="150" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605114697618" />
+    <state width="1877" height="150" key="GridCell.Tab.0.right" timestamp="1605140405068">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="150" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605140405068" />
+    <state width="1877" height="150" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605114697618" />
+    <state width="1877" height="150" key="GridCell.Tab.1.bottom" timestamp="1605140405069">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="150" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605140405069" />
+    <state width="1877" height="150" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605114697619" />
+    <state width="1877" height="150" key="GridCell.Tab.1.center" timestamp="1605140405069">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="150" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605140405069" />
+    <state width="1877" height="150" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605114697619" />
+    <state width="1877" height="150" key="GridCell.Tab.1.left" timestamp="1605140405069">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="150" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605140405069" />
+    <state width="1877" height="150" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605114697618" />
+    <state width="1877" height="150" key="GridCell.Tab.1.right" timestamp="1605140405069">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="150" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605140405069" />
+    <state width="1877" height="150" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605114697619" />
+    <state width="1877" height="150" key="GridCell.Tab.2.bottom" timestamp="1605140405069">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="150" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605140405069" />
+    <state width="1877" height="150" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605114697619" />
+    <state width="1877" height="150" key="GridCell.Tab.2.center" timestamp="1605140405069">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="150" key="GridCell.Tab.2.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605140405069" />
+    <state width="1877" height="150" key="GridCell.Tab.2.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605114697619" />
+    <state width="1877" height="150" key="GridCell.Tab.2.left" timestamp="1605140405069">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="150" key="GridCell.Tab.2.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605140405069" />
+    <state width="1877" height="150" key="GridCell.Tab.2.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605114697619" />
+    <state width="1877" height="150" key="GridCell.Tab.2.right" timestamp="1605140405069">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="150" key="GridCell.Tab.2.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605140405069" />
+    <state width="1877" height="150" key="GridCell.Tab.2.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605114697619" />
+    <state width="1877" height="150" key="GridCell.Tab.3.bottom" timestamp="1605140405069">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="150" key="GridCell.Tab.3.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605140405069" />
+    <state width="1877" height="150" key="GridCell.Tab.3.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605114697619" />
+    <state width="1877" height="150" key="GridCell.Tab.3.center" timestamp="1605140405069">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="150" key="GridCell.Tab.3.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605140405069" />
+    <state width="1877" height="150" key="GridCell.Tab.3.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605114697619" />
+    <state width="1877" height="150" key="GridCell.Tab.3.left" timestamp="1605140405069">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="150" key="GridCell.Tab.3.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605140405069" />
+    <state width="1877" height="150" key="GridCell.Tab.3.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605114697619" />
+    <state width="1877" height="150" key="GridCell.Tab.3.right" timestamp="1605140405069">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="150" key="GridCell.Tab.3.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605140405069" />
+    <state width="1877" height="150" key="GridCell.Tab.3.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605114697619" />
+    <state x="2714" y="236" key="RiderGenerateDialog" timestamp="1605204061562">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2714" y="236" key="RiderGenerateDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605204061562" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605547635569">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605547635569" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605202908762" />
+  </component>
+</project>
